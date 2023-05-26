@@ -1,8 +1,9 @@
 package handlers
 
 import (
-	"myapp/data"
 	"net/http"
+
+	"myapp/data"
 
 	"github.com/ciftci-mehmet/celeritas"
 )
